@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in Embedded Systems, Aerospace & Aviation, and Louisiana Hot Sauce
-- 🌱 I’m currently learning Embedded Linux, Integration of Web Services in Embedded Devices, and Python
+- 🌶️ I’m interested in Embedded Systems in IIoT, Aerospace, and Louisiana Hot Sauce
+- 🌱 I’m currently learning C++, Typescript, and Python
 - 💞️ I’m looking to collaborate on anything we share a mutual interest in!
 - 📫 How to reach me ... shoot me a message at https://www.linkedin.com/in/jonathanlicari/
 
